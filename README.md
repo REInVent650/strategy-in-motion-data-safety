@@ -1,4 +1,4 @@
-# Instructions for deleting your AreYouOK account by Mani Rao
+# Instructions for deleting your AreYouOK account with Mani Rao
 
 Visit the personalization page in the app and press Logout
 
